@@ -1,0 +1,28 @@
+/* Background for mobile dropdown menu */
+.mobile-dropdown {
+  width: 100%;
+  background-color: #eee; /* distinguish from page */
+}
+
+/* Tall section styling */
+.tall-section .section-box {
+  height: 1000px;     /* required tall area */
+  background: #dcdcdc;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+
+/* Optional 3 sections */
+.section-box {
+  height: 700px;
+  background: #eaeaea;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+.back-top {
+  display: inline-block;
+  margin-top: 20px;
+}
